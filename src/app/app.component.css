@@ -1,0 +1,19 @@
+
+*
+{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-family: Oswald;
+}
+body{
+    /*background-color: var(--d);*/
+    background-color: #e3d6ae;
+}
+:root{
+    --a:#6e1f00;
+    --b:#89511b;
+    --c:#b5925f;
+    --d:#e3d6ae;
+    --e:#ffffe8;
+}

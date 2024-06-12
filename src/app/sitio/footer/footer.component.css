@@ -1,0 +1,21 @@
+:root{
+    --a:#6e1f00;
+    --b:#89511b;
+    --c:#b5925f;
+    --d:#e3d6ae;
+    --e:#ffffe8;
+}
+div
+{
+    width: 100%;
+    height: 100px;
+    /*background-color: var(--d);*/
+    background-color: #ffffe8;
+    display: flex;
+    justify-content: space-evenly;
+}
+h2
+{
+    width: 100%;
+    padding: 1% 5%;
+}
